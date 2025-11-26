@@ -18,4 +18,4 @@ To replace MongoDB we could use Azure Cosmos DB which can support the MongoDB wi
 
 ### RabbitMQ
 
-We can use Azure Service Bus to replace RabbitMQ as it supports queues, there is automatic failover and high availability, Azure manages authentication and there is no maintenance to be done as Azure is managed.
+We can use Azure Service Bus to replace RabbitMQ as it supports queues, guaranteed message delivery, there is automatic failover and high availability, Azure manages authentication and there is no maintenance to be done as Azure is managed.
