@@ -6,7 +6,7 @@
 
 ### Youtube Link
 
-[Lab 8 Youtube Link]()
+[Lab 8 Youtube Link](https://www.youtube.com/watch?v=C1jU63Xf2jA)
 
 **The instructions specify adding the YAML files in the README, I have added them as separate files in this repository.**
 
